@@ -1,0 +1,26 @@
+{
+  "name": "3y3",
+  "version": "1.0.0",
+  "description": "Hide text in plain sight, using invisible characters.",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThaUnknown/3y3.git"
+  },
+  "keywords": [
+    "encode",
+    "text",
+    "hide",
+    "3y3",
+    "invisible"
+  ],
+  "author": "ThaUnknown",
+  "contributors": [
+    "Twilight Sparkle (@yourcompanionAI)"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThaUnknown/3y3"
+  }
+}
